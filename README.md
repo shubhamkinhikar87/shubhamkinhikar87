@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # [SHUBHAM KINHIKAR](https://www.linkedin.com/in/shubhamkinhikar)
 <p  align="center"><img height="450" src = "https://s3-ap-south-1.amazonaws.com/blogmindler/bloglive/wp-content/uploads/2018/06/07124934/Data-Science-Career.png"></p>
 
