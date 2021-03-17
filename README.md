@@ -5,6 +5,8 @@
 
 I'm a IT professional offering 4+ years of experience in Software Development, Test Automation and Predictive Analytics. Looking for the opportunity in Data Science domain.
 
+I hold a Post Graduate Diploma in Advance Computing(C-DAC) and a Bachelors Degree in Electronics and Telicommunication Engineering. Currently pursuing the Post Graduate Diploma in Data Science from IIIT, Bangalore
+
 
 
 
